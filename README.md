@@ -25,6 +25,7 @@ It is dedicated for Linux based servers.
 - [ReSemiclip](https://dev-cs.ru/resources/71/) ([2.4.3](https://dev-cs.ru/resources/71/download))
 - [WHBlocker](https://dev-cs.ru/resources/76/) ([1.5.697](https://dev-cs.ru/resources/76/download))
 - [Hotbox fixer](https://github.com/Garey27/hitbox_fixer) ([2.0.3](https://github.com/Garey27/hitbox_fixer))
+- [yapb bots](https://github.com/yapb/yapb) [4.4.957](https://github.com/yapb/yapb/releases/tag/4.4.957)
 
 ## Credits
 
