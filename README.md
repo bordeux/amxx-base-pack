@@ -20,15 +20,11 @@ It is dedicated for Linux based servers.
 - [VoiceTranscoder](https://github.com/WPMGPRoSToTeMa/VoiceTranscoder) ([2017 RC5](https://github.com/WPMGPRoSToTeMa/VoiceTranscoder/releases/download/v2017rc5/VoiceTranscoder_2017RC5.zip))
 - [ReVoice](https://github.com/rehlds/ReVoice/) ([0.1.0.34](https://github.com/rehlds/ReVoice/releases/tag/0.1.0.34))
 - [Reapi](https://github.com/rehlds/ReAPI) ([5.26.0.338](https://github.com/rehlds/ReAPI/releases/tag/5.26.0.338))
-
-### Optional (disabled by default)
-
-If you want to enabled those modules check **cstrike/addons/metamod/plugins.ini**.
-
 - [ReAuthChecker](https://dev-cs.ru/resources/63/) ([0.1.6](https://dev-cs.ru/resources/63/download))
 - [ReChecker](https://dev-cs.ru/resources/72/) ([2.7](https://dev-cs.ru/resources/72/download))
 - [ReSemiclip](https://dev-cs.ru/resources/71/) ([2.4.3](https://dev-cs.ru/resources/71/download))
 - [WHBlocker](https://dev-cs.ru/resources/76/) ([1.5.697](https://dev-cs.ru/resources/76/download))
+- [Hotbox fixer](https://github.com/Garey27/hitbox_fixer) ([2.0.3](https://github.com/Garey27/hitbox_fixer))
 
 ## Credits
 
